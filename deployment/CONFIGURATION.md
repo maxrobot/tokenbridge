@@ -43,7 +43,6 @@ cp hosts.yml.example hosts.yml
 ```
 
 The config above would install the Oracle on `<host_ip_A>`, and both Oracle and Monitor on `<host_ip_B>`.
-```
 
 | Value | Description |
 |:------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
